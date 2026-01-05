@@ -99,6 +99,10 @@
     box-shadow: 0 0 30px hsl(var(--primary) / 0.3);
   }
 
+  .glow-accent {
+    box-shadow: 0 0 30px hsl(var(--accent) / 0.3);
+  }
+
   .animate-pulse-slow {
     animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
   }
